@@ -1,0 +1,14 @@
+# Project exclude paths
+/node_modules/
+/index.js
+/index.js.map
+/practice_promises.js
+/practice_promises.js.map
+/pull_twitter_data.js
+/pull_twitter_data.js.map
+/sentimentTweets.js
+/sentimentTweets.js.map
+/tweetdatecreate.js
+/tweetdatecreate.js.map
+/yoyolambdabro.js
+/yoyolambdabro.js.map
